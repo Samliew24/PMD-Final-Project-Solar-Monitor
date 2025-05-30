@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base theme -->
+    <style name="Theme.SolarMonitorApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#b1dd9e</item>
+        <item name="colorPrimaryDark">#315e26</item>
+        <item name="colorAccent">#b1dd9e</item>
+        <item name="android:windowBackground">@color/colorPrimary</item>
+    </style>
+
+    <!-- Splash screen theme -->
+    <style name="Theme.SolarMonitorApp.Launcher" parent="Theme.SolarMonitorApp">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+</resources>

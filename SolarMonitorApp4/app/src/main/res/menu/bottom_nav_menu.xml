@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_dashboard"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="Dashboard" />
+
+    <item
+        android:id="@+id/nav_efficiency"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="Tracking" />
+
+    <item
+        android:id="@+id/nav_production"
+        android:icon="@android:drawable/ic_menu_upload"
+        android:title="Production" />
+
+    <item
+        android:id="@+id/nav_impact"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="Impact" />
+
+    <item
+        android:id="@+id/nav_reports"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="Reports" />
+
+</menu>

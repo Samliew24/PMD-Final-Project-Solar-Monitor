@@ -1,0 +1,16 @@
+<resources>
+    <!-- Primary brand color for the app -->
+    <color name="colorPrimary">#b1dd9e</color> <!-- Primary color -->
+    <color name="colorPrimaryDark">#315e26</color> <!-- Darker variant for the status bar -->
+    <color name="colorAccent">#b1dd9e</color> <!-- Accent color for buttons and highlights -->
+
+    <!-- Additional colors you can define for the app -->
+    <color name="colorBackground">#FFFFFF</color> <!-- Background color -->
+    <color name="colorTextPrimary">#000000</color> <!-- Primary text color -->
+    <color name="colorTextSecondary">#757575</color> <!-- Secondary text color -->
+
+    <!-- Colors used in DashboardActivity -->
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+
+</resources>
